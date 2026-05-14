@@ -1,4 +1,4 @@
-# 
+# Enhance OBS Studio for macOS with smart OBS Studio for macOS Overlay | social-media-export + reverb, the #1 overlay. Includes social-media-export and reverb for a smoother and
 
 
 
